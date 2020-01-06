@@ -4,13 +4,13 @@
 
 ### Tap-Hold-Counter
 
-### Tools and Techniques :
+### Tools + Language + Framework + Techniques :
+
+### UIKit framework
 
 ### StoryBoard
 
 ### Auto-Layout
-
-### UIKit
 
 ### Code Editor
 
