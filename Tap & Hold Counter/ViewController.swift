@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tap & Hold Counter
 //
-//  Created by Padman on 19/12/2019.
+//  Created by Padman Selvamanickam on 19/12/2019.
 //  Copyright © 2019 Padman Selvamanickam. All rights reserved.
 //
 
