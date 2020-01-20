@@ -20,16 +20,9 @@
 
 * (https://developer.apple.com/xcode/ide)
 
-
-### Design Tool
-
-* (https://www.adobe.com)
-
-
 ### Built With
 
 * (https://developer.apple.com/xcode)
-
 
 ### Project Link
 
